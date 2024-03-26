@@ -1,6 +1,6 @@
 {
   "short_name": "Yosh Yu",
-  "name": "This is yosh's world!",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#54335f",
+  "theme_color": "#000000",
   "background_color": "#ffffff"
 }
